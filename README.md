@@ -1,2 +1,2 @@
 # furry-engine
-past assignments
+past course assignments
